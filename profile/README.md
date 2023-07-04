@@ -3,3 +3,6 @@
 
 # Libraries
 At the moment the most developed library is created for C# language [c-sharp-library](https://github.com/IoDeSer/c-sharp-library), but libraries for [python](https://github.com/IoDeSer/python-library) and [java](https://github.com/IoDeSer/java-library) exists, but are very buggy with most features not implemented or not working.
+
+# Status
+Every library is in alpha status, and *should* ***NOT*** be used for production environments, but reather for tests, fun and development. The contributions, issues and ideas are very welcome!
