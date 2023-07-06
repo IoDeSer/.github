@@ -6,3 +6,6 @@ At the moment the most developed library is created for C# language [c-sharp-lib
 
 # Status
 Every library is in alpha status, and *should* ***NOT*** be used for production environments, but reather for tests, fun and development. The contributions, issues and ideas are very welcome!
+
+# Goals
+Achive de/serialization of types such as primitives (integers, decimals, strings), arrays/lists and classes with as little symbols as possible (**|**, **+**, **->**, newline *\n* and tabualtor *\t*), that works the same across different programming languages.
